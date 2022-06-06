@@ -12,3 +12,11 @@ torch_geometric
 pyGCL
 
 pygosemsim
+
+
+# dataset
+The KGSIM can be downloaded from https://github.com/liseda-lab/kgsim-benchmark
+
+# baseline
+
+The baselines from https://github.com/liseda-lab/Supervised-SS.git
