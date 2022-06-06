@@ -10,3 +10,5 @@ transformers
 torch_geometric
 
 pyGCL
+
+pygosemsim
